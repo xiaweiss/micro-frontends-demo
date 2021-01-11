@@ -1,0 +1,22 @@
+# START
+
+### step1: in child app project
+
+```
+cd app
+yarn
+yarn serve
+```
+
+### step2: in root project
+
+```
+cd root
+yarn start
+```
+
+
+### step3: browser
+```
+open http://localhost:9000
+```
